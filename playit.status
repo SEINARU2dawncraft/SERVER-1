@@ -1,184 +1,520 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718857376090 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718857496818 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857379224 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857499938 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857382348 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857503057 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857385472 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857506156 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857388591 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857509274 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857391732 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857512401 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857394854 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857515517 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857397951 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857518667 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857401048 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857521767 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857404147 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857524886 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857407288 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857528014 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857410400 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857531136 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857413522 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857534266 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857416643 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857537371 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857419772 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857540487 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857422878 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857543618 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857425998 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857546768 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857429158 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857549884 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857432265 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857552997 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857435379 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857556133 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857438528 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857559268 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857441697 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857562385 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857444807 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857565511 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857447919 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857568625 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857451036 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857571880 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857454155 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857575034 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857457272 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857578222 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857460391 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857581320 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857463510 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857584438 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857466613 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857587573 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718857469712 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718857590694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857593831 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857596935 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857600034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857603143 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857606255 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857609390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857612492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857615606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857618724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857621834 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857624948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857628067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857631175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857634301 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857637416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857640520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857643620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857646877 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857649982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857653091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857656193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857659296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857662400 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857665544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857668664 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857671796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857674953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857678071 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857681178 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857684337 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857687488 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857690594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857693698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857696810 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857699920 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857703046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857706150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857709274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857712402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857715516 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857718622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857721742 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857724865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857727983 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857731085 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857734256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857737370 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857740496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857743617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857746754 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857749889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857752992 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857756103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857759261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857762384 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+are-sealed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+gmt-satisfied.gl.at.ply.gg:2429 => 127.0.0.1:2429 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718857765542 tunnel running, 2 tunnels registered
 
 
 TUNNELS
